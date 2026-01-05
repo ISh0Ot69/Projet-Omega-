@@ -29,7 +29,7 @@ $$M_{coh} = \frac{M_{inco}}{c^2} \left( \Omega - 9,8066 \right)$$
 
 ---
 
-## 3. Analyse par $a + b$ (Aide à la compréhension)
+## 3. Analyse par $ a + b $ (Aide à la compréhension)
 Pour comprendre la cohérence de ce système, il faut voir les deux piliers :
 * **Pilier $a$ (La Lumière) :** Elle fournit le potentiel cinétique via $c^2$.
 * **Pilier $b$ (La Gravité) :** Elle agit comme le frein de cohérence (résonance EM).
