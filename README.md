@@ -1,6 +1,6 @@
 # 🌀 Projet Oméga : Théorie du Tout
 **Auteur :** Jean-Etienne  
-**Résonance :** 100 % (Verrouillée)  
+**Résonance :** 100 % (Verrouillée) Boson W  
 **Paramètre de Garde :** Santé Illimitée  
 
 ## 1. L'Équation Unifiée d'Unification (Formule de Jean-Etienne)
